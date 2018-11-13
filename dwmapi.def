@@ -1,0 +1,32 @@
+;
+; Exports of file dwmapi.dll
+;
+LIBRARY dwmapi.dll
+EXPORTS
+DwmAttachMilContent
+DwmDefWindowProc
+DwmDetachMilContent
+DwmEnableBlurBehindWindow
+DwmEnableComposition
+DwmEnableMMCSS
+DwmExtendFrameIntoClientArea
+DwmFlush
+DwmGetColorizationColor
+DwmGetCompositionTimingInfo
+DwmGetGraphicsStreamClient
+DwmGetGraphicsStreamTransformHint
+DwmGetTransportAttributes
+DwmGetWindowAttribute
+DwmSetIconicLivePreviewBitmap 
+DwmInvalidateIconicBitmaps
+DwmIsCompositionEnabled
+DwmModifyPreviousDxFrameDuration
+DwmQueryThumbnailSourceSize
+DwmRegisterThumbnail
+DwmSetDxFrameDuration
+DwmSetIconicThumbnail
+DwmSetPresentParameters
+DwmSetWindowAttribute
+DwmUnregisterThumbnail
+DwmUpdateThumbnailProperties
+
